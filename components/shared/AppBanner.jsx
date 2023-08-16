@@ -80,7 +80,7 @@ function AppBanner() {
           Born in Ethiopia, my expertise and passion lie in full-stack web
           development. <br />
           Leveraging my background in Computer Science and experience with a{" "}
-          <em>Big Tech Company</em> company, my approach brings a unique perspective to
+          <em>Big Tech Company</em> , my approach brings a unique perspective to
           deliver high-quality web solutions. <br />
           <br />
           <em>Fully committed to the philosophy of life-long learning.</em>{" "}
