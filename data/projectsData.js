@@ -179,7 +179,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Website',
-					details: 'https://company.com',
+					details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 				},
 				{
 					id: uuidv4(),
@@ -305,7 +305,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Website',
-					details: 'https://company.com',
+					details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 				},
 				{
 					id: uuidv4(),
@@ -400,7 +400,7 @@ export const projectsData = [
 	// 			{
 	// 				id: uuidv4(),
 	// 				title: 'Website',
-	// 				details: 'https://company.com',
+	// 				details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 	// 			},
 	// 			{
 	// 				id: uuidv4(),
@@ -526,7 +526,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Website',
-					details: 'https://company.com',
+					details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 				},
 				{
 					id: uuidv4(),
@@ -652,7 +652,7 @@ export const projectsData = [
 	// 			{
 	// 				id: uuidv4(),
 	// 				title: 'Website',
-	// 				details: 'https://company.com',
+	// 				details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 	// 			},
 	// 			{
 	// 				id: uuidv4(),
@@ -779,7 +779,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Website',
-					details: 'https://company.com',
+					details: 'https://nextjs-tailwindcss-portfolio-gamma.vercel.app/',
 				},
 				{
 					id: uuidv4(),
