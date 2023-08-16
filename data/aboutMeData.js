@@ -1,12 +1,19 @@
 import { v4 as uuidv4 } from 'uuid';
 
 export const aboutMeData = [
-	{
-		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+
+  {
+    id: uuidv4(),
+    bio: `Abenezer Kifle is a talented full-stack developer and UI/UX designer based in Ethiopia, bringing over 2.5 years of experience building robust web applications using JavaScript and popular frameworks like React, Node.js, and Next.js.
+
+Specializing in both front-end and back-end web development, skills include HTML/CSS, React, Tailwind CSS, Node.js, Express, MongoDB, and more. Stays up-to-date on the latest trends and advancements in web development.
+
+In addition to programming, has a keen eye for design and creates intuitive UI/UX using Figma, quickly translating requirements into wireframes and prototypes. 
+
+Currently works as a full-time developer at Olab and CBE, while also taking on web development projects as a freelancer. Comfortable collaborating with teams or working independently.
+
+Enjoys contributing to open source projects on GitHub in free time. Constantly learning and improving skills. Extremely driven, focused, and has proven ability to deliver high-quality work on schedule.
+
+Looking forward to taking on new challenges and building innovative web applications as career continues. Thrives in fast-paced environments and is eager to join a talented engineering team.`, 
+  },
 ];

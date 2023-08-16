@@ -17,7 +17,7 @@ const RelatedProject = {
 		{
 			id: uuidv4(),
 			title: 'UI Design',
-			img: '/images/web-project-1.jpg',
+			img: '/images/15.PNG',
 		},
 		{
 			id: uuidv4(),
@@ -29,17 +29,17 @@ const RelatedProject = {
 
 function RelatedProjects() {
 	return (
-		<div className="mt-10 pt-10 sm:pt-14 sm:mt-20 border-t-2 border-primary-light dark:border-secondary-dark">
-			<p className="font-general-regular text-primary-dark dark:text-primary-light text-3xl font-bold mb-10 sm:mb-14 text-left">
+		<div className="pt-10 mt-10 border-t-2 sm:pt-14 sm:mt-20 border-primary-light dark:border-secondary-dark">
+			<p className="mb-10 text-3xl font-bold text-left font-general-regular text-primary-dark dark:text-primary-light sm:mb-14">
 				{RelatedProject.title}
 			</p>
 
-			<div className="grid grid-cols-1 sm:grid-cols-4 gap-10">
+			<div className="grid grid-cols-1 gap-10 sm:grid-cols-4">
 				{RelatedProject.Projects.map((project) => {
 					return (
 						<Image
 							src={project.img}
-							className="rounded-xl cursor-pointer"
+							className="cursor-pointer rounded-xl"
 							width="400"
 							height="400"
 							alt={project.title}
